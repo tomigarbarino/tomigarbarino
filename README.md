@@ -8,7 +8,7 @@
 
 ```javascript
 const Tomas = {
-    pronouns: "he",
+    pronouns: "he","him";
     languages: ["spanish", "english"],
     technologies: {
         frontEnd: {
@@ -17,7 +17,7 @@ const Tomas = {
         },
         backEnd: ["NodeJS", "Express"],
         databases: ["Sql", "postgres"],
-        extras: ["scrum", "trello", "slack"]
+        extras: ["scrum", "slack"]
     }
 };
 ```
