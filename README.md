@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm a Full stack Web Developer from Buenos Aires, Argentina.⚡
+### I'm a Front end Developer from Buenos Aires, Argentina.⚡
 
 
 
