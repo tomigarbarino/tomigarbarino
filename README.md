@@ -13,11 +13,10 @@ const Tomas = {
     technologies: {
         frontEnd: {
             js: ["React", "Redux"],
-            css: ["bootstrap", "UX/UI"]
+            css: ["bootstrap"]
         },
         backEnd: ["NodeJS", "Express"],
         databases: ["Sql", "postgres"],
-        extras: ["scrum", "slack"]
     }
 };
 ```
