@@ -11,7 +11,7 @@
 
 <h4>📫 Contact: </h4>
 <ul>
-  <li>📧 <a href='https://www.linkedin.com/in/tomas-garbarino/'> LinkedIn </a> </li>
+  <li>📧 <a href='https://www.linkedin.com/in/tomas-garbarino/' Target="_blank"> LinkedIn </a> </li>
   <li>💼 <a href=''> Portfolio </a> </li>
-  <li>📜 <a href='https://drive.google.com/file/d/1EJsvNLVnxRatuMBx7dJxIop4q_S8BBRT/view'> CV </a> </li>
+  <li>📜 <a href='https://drive.google.com/file/d/1EJsvNLVnxRatuMBx7dJxIop4q_S8BBRT/view' Target="_blank"> CV </a> </li>
 </ul>
