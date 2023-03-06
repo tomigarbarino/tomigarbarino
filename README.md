@@ -4,8 +4,6 @@
 <ul>
   <li>💻 JavaScript, React</li>
   <li>👁️ Material-UI, CSS, Sass, Bootstrap</li>
-  <li>💽 PostgreSQL, MongoDB, Firebase</li>
-  <li>💬 Git, SCRUM, Slack, Trello</li>
 </ul>
 
 
