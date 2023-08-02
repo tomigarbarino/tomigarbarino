@@ -1,15 +1,24 @@
-<h1>Hola Mundo 🙋‍♂️</h1>
+# ¡Hola! 👋 Soy Tomas
 
-<h4>🧠 Skill:</h4>
-<ul>
-  <li>💻 JavaScript, React</li>
-  <li>👁️ Material-UI, CSS, Sass, Bootstrap</li>
-</ul>
+Soy un desarrollador Front-End con una profunda pasión por la creación de experiencias digitales atractivas. Mi experiencia se extiende a tecnologías como HTML, CSS, JavaScript, React y más. Con un enfoque de trabajo curioso y resolutivo 🕵️‍♂️, siempre estoy listo para compartir 🤲 y adquirir nuevos conocimientos 🧠. Mi habilidad para resolver problemas y mi pasión por el aprendizaje continuo me posicionan como un colaborador valioso en cualquier equipo.
 
 
-<h4>📫 Contact: </h4>
-<ul>
-  <li>📧 <a href='https://www.linkedin.com/in/tomas-garbarino/' Target="_blank"> LinkedIn </a> </li>
-  <li>💼 <a href='https://tomas-garbarino.vercel.app/'> Portfolio </a> </li>
-  <li>📜 <a href='https://drive.google.com/file/d/1EJsvNLVnxRatuMBx7dJxIop4q_S8BBRT/view' Target="_blank"> CV </a> </li>
-</ul>
+## 🧠 Habilidades:
+
+- 💻 JavaScript, TypeScript, React
+- 🎨 CSS, Sass, Bootstrap, Material-UI
+
+## 🌍 Experiencia:
+
+- Desarrollador Frontend en Hogarth WW desde 2022
+- [He trabajado para empresas líderes en tecnología, ayudando a mejorar y crear experiencias digitales.] 
+
+## 🎓 Educación:
+
+- [Istea] - Estudiante de Desarrollo de Software (agosto 2023 - presente)
+
+## 📫 Contacto:
+
+- 📧 [LinkedIn](https://www.linkedin.com/in/tomas-garbarino/) 
+- 💼 [Portfolio](https://tomas-garbarino.vercel.app/)
+- 📜 [CV](https://drive.google.com/file/d/1EJsvNLVnxRatuMBx7dJxIop4q_S8BBRT/view)
