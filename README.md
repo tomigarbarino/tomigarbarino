@@ -21,4 +21,4 @@ Soy un desarrollador Front-End con una profunda pasión por la creación de expe
 
 - 📧 [LinkedIn](https://www.linkedin.com/in/tomas-garbarino/) 
 - 💼 [Portfolio](https://tomas-garbarino.vercel.app/)
-- 📜 [CV](https://drive.google.com/file/d/1EJsvNLVnxRatuMBx7dJxIop4q_S8BBRT/view)
+
