@@ -6,7 +6,7 @@ Soy un desarrollador Front-End con una profunda pasión por la creación de expe
 ## 🧠 Habilidades:
 
 - 💻 JavaScript, TypeScript, React
-- 🎨 CSS, Sass, Bootstrap, Material-UI
+- 🎨 CSS, Sass, Bootstrap,
 
 ## 🌍 Experiencia:
 
