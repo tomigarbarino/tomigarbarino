@@ -66,7 +66,9 @@ My focus is turning AI-assisted learning and knowledge workflows into a product 
 
 `AI product` `learning workflows` `validation` `conversational AI` `product engineering`
 
-[**View Trainly at Flock Labs →**](https://www.flocklabs.ar/labs/producto)
+[**View the Trainly research at Flock Labs →**](https://www.flocklabs.ar/projects/trainly-la-herramienta-para-validar-competencias-2-2-2)
+
+[Product vertical at Flock Labs](https://www.flocklabs.ar/labs/producto)
 
 > Case study in progress: problem → hypothesis → implementation → validation → learnings.
 
