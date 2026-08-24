@@ -1,92 +1,145 @@
-# Tomás Garbarino
+<div align="center">
 
-**Product Engineer · AI Product Builder**
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=210&section=header&text=Tom%C3%A1s%20Garbarino&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Product%20Engineer%20%C2%B7%20AI%20Product%20Builder&descAlignY=55&descSize=18)
 
-I turn ambiguous problems into working AI products — from product flow and UX to implementation, integrations, data and deployment.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&color=60A5FA&center=true&vCenter=true&width=760&lines=I+turn+ambiguous+problems+into+working+AI+products.;AI+workflows+%C2%B7+Agents+%C2%B7+Human-in-the-loop+systems;Prototype+fast+%E2%86%92+validate+%E2%86%92+iterate+%E2%86%92+productize)](https://git.io/typing-svg)
 
-My background is in frontend engineering, but my work today is broader: I prototype and ship AI-powered workflows, conversational experiences, internal tools and product experiments with a strong focus on **real user and business problems**.
+[![Portfolio](https://img.shields.io/badge/Portfolio-tomas--garbarino.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://tomas-garbarino.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tom%C3%A1s%20Garbarino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomas-garbarino/)
+![AI Product Builder](https://img.shields.io/badge/Focus-AI%20Product%20Engineering-2563EB?style=for-the-badge)
 
-[Portfolio](https://tomas-garbarino.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/tomas-garbarino/)
+</div>
 
 ---
 
-## What I work on
+## About
 
-### AI products & workflows
-- Design end-to-end flows where AI is part of the product, not a feature added at the end.
-- Build agentic and human-in-the-loop workflows for operational and knowledge-heavy processes.
-- Integrate LLMs, voice, data and product interfaces into usable prototypes and production-oriented systems.
+I'm a **Product Engineer focused on AI products**. My background started in frontend engineering, but today I work across product flows, UX, integrations, data and deployment to turn ambiguous ideas into working software.
 
-### Product engineering
-- Take ideas from ambiguous requirements to demos and working software.
-- Own frontend architecture, interaction design, API integrations and product iteration.
-- Work closely with product, commercial and technical stakeholders to turn feedback into shipped improvements.
+I enjoy the space between **"we have a problem"** and **"here is a product people can actually use."**
 
-### Rapid prototyping
-- Build demos quickly enough to validate an idea before over-investing in it.
-- Use real AI where it creates value and deterministic flows where reliability matters more.
-- Optimize for learning speed, clarity and a path from prototype → product.
+```text
+ambiguous problem  →  workflow  →  prototype  →  real feedback  →  product
+```
+
+### What I bring
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🤖 AI Products
+Agentic and human-in-the-loop workflows where AI solves a concrete part of the product instead of being added as decoration.
+
+</td>
+<td width="33%" valign="top">
+
+### 🧩 Product Engineering
+End-to-end ownership across frontend architecture, interaction design, APIs, data and product iteration.
+
+</td>
+<td width="33%" valign="top">
+
+### ⚡ Rapid Prototyping
+Fast demos that reduce uncertainty, validate ideas early and create a clear path from prototype to product.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Selected work
 
-### AI Learning & Onboarding
-Building AI-assisted learning experiences around operational knowledge: course generation, tutoring, evaluation and feedback loops, with human validation where needed.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Focus:** AI product design · learning workflows · conversational interfaces · evaluation · product iteration
+### 🎓 AI Learning & Onboarding
+AI-assisted learning experiences built around operational knowledge: course generation, tutoring, evaluation and feedback loops with human validation where it matters.
 
-### Multi-agent Insurance Workflow
-Prototyped an operational flow where multiple AI agents help analyze a claim, consult policy/evidence, detect missing information or inconsistencies, and escalate decisions to a human operator.
+`AI product design` `learning workflows` `conversational AI` `evaluation`
 
-**Focus:** agent orchestration · human-in-the-loop · operational UX · product prototyping
+</td>
+<td width="50%" valign="top">
 
-### Immersive & Conversational AI Experiences
-Exploring interfaces that combine real-time conversational AI, voice and immersive/3D environments to make training and interactive experiences faster to create and easier to iterate.
+### 🛡️ Multi-agent Insurance Workflow
+An operational prototype where AI agents analyze a claim, consult policy and evidence, detect missing information and escalate decisions to a human operator.
 
-**Focus:** real-time AI · voice · 3D interfaces · rapid experimentation
+`agent orchestration` `human-in-the-loop` `operational UX` `prototyping`
 
-### Prime OS — personal project
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🥽 Immersive & Conversational AI
+Exploring real-time conversational AI, voice and immersive / 3D interfaces for training and interactive experiences that are faster to create and iterate.
+
+`real-time AI` `voice` `3D interfaces` `experimentation`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Prime OS · Personal Project
 A personal operating system I'm building to turn fragmented context into better decisions and small, testable actions across work, finances, habits and planning.
 
-**Focus:** agents · memory/context · tool use · decision systems · product design
+`agents` `memory & context` `tool use` `decision systems`
+
+</td>
+</tr>
+</table>
+
+> **Next:** turning these projects into visual case studies with demos, architecture decisions and measurable learnings.
 
 ---
 
-## Current toolkit
+## Toolkit
 
-**Product / Frontend**  
-Next.js · React · TypeScript · Tailwind · Three.js · Recharts
+<div align="center">
 
-**AI / Data / Infrastructure**  
-OpenAI APIs · ElevenLabs · Supabase · Vercel · agent/tool workflows
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,threejs,nodejs,supabase,vercel,git,github&perline=10)](https://skillicons.dev)
 
-**How I like to work**  
-Prototype fast → test with real context → measure what matters → iterate → productize what works.
+<br />
+
+![OpenAI](https://img.shields.io/badge/OpenAI-API-111827?style=flat-square&logo=openai&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-Voice%20AI-111827?style=flat-square)
+![Agents](https://img.shields.io/badge/AI-Agent%20%26%20Tool%20Workflows-2563EB?style=flat-square)
+![Product](https://img.shields.io/badge/Product-Rapid%20Prototyping-2563EB?style=flat-square)
+
+</div>
 
 ---
 
-## Background
+## Experience
 
-### Product Engineer — AI R&D · 2026–present
-Working across AI product initiatives, demos and experiments with end-to-end ownership: product thinking, frontend, integrations and rapid validation.
+**Product Engineer · AI R&D** · `2026 — present`  
+Building AI product initiatives, demos and experiments with end-to-end ownership across product thinking, frontend, integrations and rapid validation.
 
-### Frontend Engineer / Frontend Lead — Batech · 2023–2025
+**Frontend Engineer → Frontend Lead · Batech** · `2023 — 2025`  
 Joined as the only frontend engineer and later took frontend leadership responsibilities while building and evolving the product architecture.
 
-### Frontend Developer — Hogarth Worldwide · 2022–2023
-Worked on frontend production and reusable experiences for global brands, including Apple-related work.
+**Frontend Developer · Hogarth Worldwide** · `2022 — 2023`  
+Frontend production and reusable experiences for global brands, including Apple-related work.
 
 ---
 
-## What I'm interested in
+## What I'm looking to build next
 
 I'm especially interested in:
 
-- AI Product Engineer / Product Engineer roles
-- AI workflows and internal tools
+- **AI Product Engineer / Product Engineer** opportunities
 - agentic applications with real operational value
-- fast-moving product teams where engineers own outcomes, not just tickets
-- selected freelance / consulting projects where a manual process can be turned into a working AI-assisted workflow
+- AI workflows, internal tools and knowledge systems
+- fast-moving teams where engineers own outcomes, not just tickets
+- selected freelance / consulting projects where a manual process can become a working AI-assisted workflow
 
-If you're building something in that space, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/tomas-garbarino/).
+<div align="center">
+
+### Have an interesting AI/product problem?
+
+[![Let's talk](https://img.shields.io/badge/Let's%20talk-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomas-garbarino/)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=110&section=footer)
+
+</div>
