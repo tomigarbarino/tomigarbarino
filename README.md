@@ -49,18 +49,37 @@ Fast demos that reduce uncertainty, validate ideas early and create a clear path
 
 ---
 
+## Current focus
+
+<table>
+<tr>
+<td valign="top">
+
+### 🎓 Trainly · Flock I+D
+
+![Current](https://img.shields.io/badge/CURRENT%20FOCUS-VALIDATION-2563EB?style=flat-square)
+![Flock](https://img.shields.io/badge/Flock-I%2BD-111827?style=flat-square)
+
+**Trainly is the main AI product initiative I'm currently working on at Flock's innovation lab.** It is publicly listed by Flock as an active **Validation** initiative within its Agents vertical.
+
+My focus is turning AI-assisted learning and knowledge workflows into a product that can be demonstrated, validated with real use cases and iterated from feedback — working across product flow, frontend, AI integrations and rapid experimentation.
+
+`AI product` `learning workflows` `validation` `conversational AI` `product engineering`
+
+[**View Trainly at Flock Labs →**](https://www.flocklabs.ar/labs/agentes)
+
+> Case study in progress: problem → hypothesis → implementation → validation → learnings.
+
+</td>
+</tr>
+</table>
+
+---
+
 ## Selected work
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🎓 AI Learning & Onboarding
-AI-assisted learning experiences built around operational knowledge: course generation, tutoring, evaluation and feedback loops with human validation where it matters.
-
-`AI product design` `learning workflows` `conversational AI` `evaluation`
-
-</td>
 <td width="50%" valign="top">
 
 ### 🛡️ Multi-agent Insurance Workflow
@@ -69,8 +88,6 @@ An operational prototype where AI agents analyze a claim, consult policy and evi
 `agent orchestration` `human-in-the-loop` `operational UX` `prototyping`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🥽 Immersive & Conversational AI
@@ -79,6 +96,8 @@ Exploring real-time conversational AI, voice and immersive / 3D interfaces for t
 `real-time AI` `voice` `3D interfaces` `experimentation`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🧠 Prime OS · Personal Project
@@ -87,10 +106,18 @@ A personal operating system I'm building to turn fragmented context into better 
 `agents` `memory & context` `tool use` `decision systems`
 
 </td>
+<td width="50%" valign="top">
+
+### 🔬 AI Product Experiments
+Rapid prototypes built to test how AI capabilities can become useful product workflows instead of isolated demos.
+
+`product discovery` `rapid prototyping` `AI UX` `validation`
+
+</td>
 </tr>
 </table>
 
-> **Next:** turning these projects into visual case studies with demos, architecture decisions and measurable learnings.
+> **Next:** turning Trainly and selected projects into visual case studies with demos, architecture decisions and measurable learnings.
 
 ---
 
@@ -113,8 +140,8 @@ A personal operating system I'm building to turn fragmented context into better 
 
 ## Experience
 
-**Product Engineer · AI R&D** · `2026 — present`  
-Building AI product initiatives, demos and experiments with end-to-end ownership across product thinking, frontend, integrations and rapid validation.
+**Product Engineer · Flock I+D** · `2026 — present`  
+Building and validating AI product initiatives with end-to-end ownership across product thinking, frontend, integrations and rapid experimentation. **Current main focus: Trainly.**
 
 **Frontend Engineer → Frontend Lead · Batech** · `2023 — 2025`  
 Joined as the only frontend engineer and later took frontend leadership responsibilities while building and evolving the product architecture.
