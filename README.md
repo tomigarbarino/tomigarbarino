@@ -58,15 +58,15 @@ Fast demos that reduce uncertainty, validate ideas early and create a clear path
 ### 🎓 Trainly · Flock I+D
 
 ![Current](https://img.shields.io/badge/CURRENT%20FOCUS-VALIDATION-2563EB?style=flat-square)
-![Flock](https://img.shields.io/badge/Flock-I%2BD-111827?style=flat-square)
+![Flock](https://img.shields.io/badge/Flock-Producto-111827?style=flat-square)
 
-**Trainly is the main AI product initiative I'm currently working on at Flock's innovation lab.** It is publicly listed by Flock as an active **Validation** initiative within its Agents vertical.
+**Trainly is the main AI product initiative I'm currently working on at Flock's innovation lab.** It is publicly listed by Flock as an active **Validation** initiative within its **Producto** vertical.
 
 My focus is turning AI-assisted learning and knowledge workflows into a product that can be demonstrated, validated with real use cases and iterated from feedback — working across product flow, frontend, AI integrations and rapid experimentation.
 
 `AI product` `learning workflows` `validation` `conversational AI` `product engineering`
 
-[**View Trainly at Flock Labs →**](https://www.flocklabs.ar/labs/agentes)
+[**View Trainly at Flock Labs →**](https://www.flocklabs.ar/labs/producto)
 
 > Case study in progress: problem → hypothesis → implementation → validation → learnings.
 
