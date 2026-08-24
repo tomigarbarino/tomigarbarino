@@ -1,67 +1,92 @@
-# 👋 Hola, soy Tomás Garbarino
+# Tomás Garbarino
 
-Frontend Product Builder con mentalidad de crecimiento y experiencia construyendo productos reales en entornos de startup.  
+**Product Engineer · AI Product Builder**
 
-Creo interfaces que son rápidas, limpias y escalables. Me apasiona entender productos de punta a punta: desde la arquitectura y el diseño del sistema, hasta cómo cada decisión impacta en el usuario y en el negocio.
+I turn ambiguous problems into working AI products — from product flow and UX to implementation, integrations, data and deployment.
 
-Me interesa la ingeniería con propósito: código que resuelve problemas concretos, trabaja con datos reales y escala sin complicarse.
+My background is in frontend engineering, but my work today is broader: I prototype and ship AI-powered workflows, conversational experiences, internal tools and product experiments with a strong focus on **real user and business problems**.
 
----
-
-## 🧩 Mi historia (breve y real)
-
-Arranqué mi carrera desde cero, literalmente sin recursos, solo con internet y ganas de entender cómo funcionan las cosas. Hoy formo parte de una startup LATAM donde soy el responsable directo del frontend del producto.
-
-Construyo features end-to-end, diseño arquitectura, refactorizo legacy y trabajo codo a codo con backend, producto y data.  
-
-Mi objetivo es simple: **Solucionar problemas**.
+[Portfolio](https://tomas-garbarino.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/tomas-garbarino/)
 
 ---
 
-## ⚡ Qué hago hoy
+## What I work on
 
-### 🧪 **Frontend Engineer @ Batech (2023 – Actualidad)**
-- Único developer a cargo del frontend del producto.
-- Construcción de dashboards, vistas dinámicas, autenticación y módulos completos.
-- Integración con APIs reales, manejo de estado avanzado y arquitectura modular.
-- Migraciones, refactors profundos y mejoras de performance.
-- Participación activa en prototipos, descubrimiento técnico y decisiones de producto.
-- Proyecto acelerado por Google for Startups LATAM (Hack Day).
+### AI products & workflows
+- Design end-to-end flows where AI is part of the product, not a feature added at the end.
+- Build agentic and human-in-the-loop workflows for operational and knowledge-heavy processes.
+- Integrate LLMs, voice, data and product interfaces into usable prototypes and production-oriented systems.
 
-Trabajo principalmente con:
-- **React + TypeScript**
-- React Query, Zustand, Context
-- Vite, Node, REST APIs
-- UI modular + diseño escalable
+### Product engineering
+- Take ideas from ambiguous requirements to demos and working software.
+- Own frontend architecture, interaction design, API integrations and product iteration.
+- Work closely with product, commercial and technical stakeholders to turn feedback into shipped improvements.
 
-### 🎨 **Frontend Developer @ Hogarth WW (2022 – 2023)**
-- Maquetación, componentes reutilizables y producción para marcas globales.
+### Rapid prototyping
+- Build demos quickly enough to validate an idea before over-investing in it.
+- Use real AI where it creates value and deterministic flows where reliability matters more.
+- Optimize for learning speed, clarity and a path from prototype → product.
 
 ---
 
-## 🛠️ Stack Actual
+## Selected work
 
-- **Lenguajes:** JavaScript (ES6+), TypeScript  
-- **Frontend:** React, React Query, Zustand, Hooks, Context  
-- **Estilos:** CSS, SASS, Tailwind, Styled  
-- **Herramientas:** Git, Vite, Node.js  
-- **Otras:** patrones de diseño, arquitectura modular, manejo de estado avanzado
+### AI Learning & Onboarding
+Building AI-assisted learning experiences around operational knowledge: course generation, tutoring, evaluation and feedback loops, with human validation where needed.
+
+**Focus:** AI product design · learning workflows · conversational interfaces · evaluation · product iteration
+
+### Multi-agent Insurance Workflow
+Prototyped an operational flow where multiple AI agents help analyze a claim, consult policy/evidence, detect missing information or inconsistencies, and escalate decisions to a human operator.
+
+**Focus:** agent orchestration · human-in-the-loop · operational UX · product prototyping
+
+### Immersive & Conversational AI Experiences
+Exploring interfaces that combine real-time conversational AI, voice and immersive/3D environments to make training and interactive experiences faster to create and easier to iterate.
+
+**Focus:** real-time AI · voice · 3D interfaces · rapid experimentation
+
+### Prime OS — personal project
+A personal operating system I'm building to turn fragmented context into better decisions and small, testable actions across work, finances, habits and planning.
+
+**Focus:** agents · memory/context · tool use · decision systems · product design
 
 ---
 
-## 🎯 Visión
+## Current toolkit
 
-Me estoy preparando para roles cada vez más complejos: **Technical Product Builder**, **Frontend Lead**, y eventualmente, fundar mi propio producto digital.  
+**Product / Frontend**  
+Next.js · React · TypeScript · Tailwind · Three.js · Recharts
 
-Mi meta es construir sistemas que sean:
-- escalables,
-- elegantes,
-- mantenibles,
-- y orientados a valor real.
+**AI / Data / Infrastructure**  
+OpenAI APIs · ElevenLabs · Supabase · Vercel · agent/tool workflows
+
+**How I like to work**  
+Prototype fast → test with real context → measure what matters → iterate → productize what works.
 
 ---
 
-## 📬 Contacto
+## Background
 
-- 💼 LinkedIn: https://www.linkedin.com/in/tomas-garbarino/  
-- 🌐 Portfolio: https://tomas-garbarino.vercel.app/  
+### Product Engineer — AI R&D · 2026–present
+Working across AI product initiatives, demos and experiments with end-to-end ownership: product thinking, frontend, integrations and rapid validation.
+
+### Frontend Engineer / Frontend Lead — Batech · 2023–2025
+Joined as the only frontend engineer and later took frontend leadership responsibilities while building and evolving the product architecture.
+
+### Frontend Developer — Hogarth Worldwide · 2022–2023
+Worked on frontend production and reusable experiences for global brands, including Apple-related work.
+
+---
+
+## What I'm interested in
+
+I'm especially interested in:
+
+- AI Product Engineer / Product Engineer roles
+- AI workflows and internal tools
+- agentic applications with real operational value
+- fast-moving product teams where engineers own outcomes, not just tickets
+- selected freelance / consulting projects where a manual process can be turned into a working AI-assisted workflow
+
+If you're building something in that space, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/tomas-garbarino/).
