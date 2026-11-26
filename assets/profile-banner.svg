@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="288" viewBox="0 0 960 288" role="img" aria-labelledby="title">
+  <title id="title">From messy workflows to useful software.</title>
+  <defs>
+    <clipPath id="frame">
+      <rect width="960" height="288" rx="20"/>
+    </clipPath>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#4F6C66"/>
+    </pattern>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#111C21"/>
+      <stop offset="1" stop-color="#142C2B"/>
+    </linearGradient>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="960" height="288" fill="url(#background)"/>
+    <rect x="624" y="24" width="312" height="240" fill="url(#grid)" opacity=".65"/>
+
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M634 63h41l53 81h65" stroke="#72918B" stroke-width="2.5"/>
+      <path d="M634 225h48l46-81" stroke="#72918B" stroke-width="2.5"/>
+      <path d="M634 114h68l26 30" stroke="#72918B" stroke-width="2.5"/>
+      <path d="M634 174h65l29-30" stroke="#72918B" stroke-width="2.5"/>
+      <path d="M728 144h166m-17-17 17 17-17 17" stroke="#AEF19A" stroke-width="4"/>
+      <rect x="769" y="105" width="78" height="78" rx="16" fill="#142A28" stroke="#AEF19A" stroke-width="2"/>
+      <path d="m792 144 11 11 21-23" stroke="#AEF19A" stroke-width="4"/>
+    </g>
+
+    <g fill="#142624" stroke="#A0B9B4" stroke-width="2.5">
+      <circle cx="634" cy="63" r="5"/>
+      <circle cx="634" cy="114" r="5"/>
+      <circle cx="634" cy="174" r="5"/>
+      <circle cx="634" cy="225" r="5"/>
+    </g>
+    <circle cx="728" cy="144" r="6" fill="#AEF19A"/>
+
+    <g font-family="Arial, Helvetica, sans-serif" font-weight="700">
+      <text x="47" y="118" font-size="53" fill="#F0F7F5" letter-spacing="-2.2">From messy workflows</text>
+      <text x="47" y="187" font-size="66" fill="#AEF19A" letter-spacing="-3">to useful software.</text>
+    </g>
+  </g>
+</svg>
