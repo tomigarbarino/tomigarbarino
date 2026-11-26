@@ -1,5 +1,52 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="288" viewBox="0 0 960 288" role="img" aria-labelledby="title">
   <title id="title">From messy workflows to useful software.</title>
+  <style>
+    .packet { opacity: 0; }
+
+    @media (prefers-reduced-motion: no-preference) {
+      .packet { animation: 3.6s both; }
+      .from-top { animation-name: from-top; }
+      .from-bottom { animation-name: from-bottom; }
+      .to-review { animation-name: to-review; }
+      .to-output { animation-name: to-output; }
+      .check { animation: confirm 3.6s both; }
+    }
+
+    @keyframes from-top {
+      0%, 6% { opacity: 0; transform: translate(634px, 63px); }
+      11% { opacity: 1; }
+      17% { transform: translate(675px, 63px); }
+      33% { opacity: 1; transform: translate(728px, 144px); }
+      36%, 100% { opacity: 0; transform: translate(728px, 144px); }
+    }
+
+    @keyframes from-bottom {
+      0%, 9% { opacity: 0; transform: translate(634px, 225px); }
+      14% { opacity: 1; }
+      21% { transform: translate(682px, 225px); }
+      33% { opacity: 1; transform: translate(728px, 144px); }
+      36%, 100% { opacity: 0; transform: translate(728px, 144px); }
+    }
+
+    @keyframes to-review {
+      0%, 33% { opacity: 0; transform: translate(728px, 144px); }
+      36% { opacity: 1; }
+      46% { opacity: 1; transform: translate(769px, 144px); }
+      48%, 100% { opacity: 0; transform: translate(769px, 144px); }
+    }
+
+    @keyframes confirm {
+      0%, 46%, 74%, 100% { stroke: #AEF19A; }
+      56%, 62% { stroke: #F0FFE9; }
+    }
+
+    @keyframes to-output {
+      0%, 64% { opacity: 0; transform: translate(847px, 144px); }
+      68% { opacity: 1; }
+      80% { opacity: 1; transform: translate(894px, 144px); }
+      86%, 100% { opacity: 0; transform: translate(894px, 144px); }
+    }
+  </style>
   <defs>
     <clipPath id="frame">
       <rect width="960" height="288" rx="20"/>
@@ -24,7 +71,7 @@
       <path d="M634 174h65l29-30" stroke="#72918B" stroke-width="2.5"/>
       <path d="M728 144h166m-17-17 17 17-17 17" stroke="#AEF19A" stroke-width="4"/>
       <rect x="769" y="105" width="78" height="78" rx="16" fill="#142A28" stroke="#AEF19A" stroke-width="2"/>
-      <path d="m792 144 11 11 21-23" stroke="#AEF19A" stroke-width="4"/>
+      <path class="check" d="m792 144 11 11 21-23" stroke="#AEF19A" stroke-width="4"/>
     </g>
 
     <g fill="#142624" stroke="#A0B9B4" stroke-width="2.5">
@@ -34,6 +81,13 @@
       <circle cx="634" cy="225" r="5"/>
     </g>
     <circle cx="728" cy="144" r="6" fill="#AEF19A"/>
+
+    <g fill="#E2FFD9">
+      <circle class="packet from-top" r="4.5"/>
+      <circle class="packet from-bottom" r="4.5"/>
+      <circle class="packet to-review" r="4"/>
+      <circle class="packet to-output" r="4"/>
+    </g>
 
     <g font-family="Arial, Helvetica, sans-serif" font-weight="700">
       <text x="47" y="118" font-size="53" fill="#F0F7F5" letter-spacing="-2.2">From messy workflows</text>
