@@ -16,8 +16,8 @@ I take AI features from customer discovery through product decisions, implementa
 ## Product case studies
 
 <p>
-<a href="https://tomas-garbarino.vercel.app/en/agora"><img src="assets/link-agora.png" width="140" height="70" alt="Agora case study"></a>
-<a href="https://tomas-garbarino.vercel.app/en/trainly"><img src="assets/link-trainly.png" width="140" height="70" alt="Trainly case study"></a>
+<a href="https://tomas-garbarino.vercel.app/en/agora"><img src="assets/card-agora.png" width="134" height="67" alt="Agora case study"></a>
+<a href="https://tomas-garbarino.vercel.app/en/trainly"><img src="assets/card-trainly.png" width="134" height="67" alt="Trainly case study"></a>
 </p>
 
 - **Agora** · As Product Owner, I helped design a path to human review when missing hiring criteria made the AI match score misleading.
@@ -28,10 +28,10 @@ I take AI features from customer discovery through product decisions, implementa
 ## Public projects
 
 <p>
-<a href="https://orquestador-entregables-tomas.vercel.app/?caso=avance"><img src="assets/link-orchestrator.png" width="140" height="70" alt="Deliverable Orchestrator: open the demo"></a>
-<a href="https://github.com/tomigarbarino/editorial-evidence-gate/blob/HEAD/examples/review.md"><img src="assets/link-evidence-gate.png" width="140" height="70" alt="Editorial Evidence Gate: view a sample review"></a>
-<a href="https://github.com/tomigarbarino/edgebridge-kvm/releases/latest"><img src="assets/link-edgebridge.png" width="140" height="70" alt="EdgeBridge KVM: download the Windows app"></a>
-<a href="https://github.com/tomigarbarino/triage-backlog"><img src="assets/link-triage.png" width="140" height="70" alt="Triage Backlog: view the Claude Code skill"></a>
+<a href="https://orquestador-entregables-tomas.vercel.app/?caso=avance"><img src="assets/card-orchestrator.png" width="134" height="67" alt="Deliverable Orchestrator: open the demo"></a>
+<a href="https://github.com/tomigarbarino/editorial-evidence-gate/blob/HEAD/examples/review.md"><img src="assets/card-evidence-gate.png" width="134" height="67" alt="Editorial Evidence Gate: view a sample review"></a>
+<a href="https://github.com/tomigarbarino/edgebridge-kvm/releases/latest"><img src="assets/card-edgebridge.png" width="134" height="67" alt="EdgeBridge KVM: download the Windows app"></a>
+<a href="https://github.com/tomigarbarino/triage-backlog"><img src="assets/card-triage.png" width="134" height="67" alt="Triage Backlog: view the Claude Code skill"></a>
 </p>
 
 Draft recurring updates with evidence, inspect an AI review, share a mouse and keyboard between two PCs, or triage a backlog against the codebase.
