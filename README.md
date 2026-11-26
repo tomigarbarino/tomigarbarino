@@ -1,10 +1,15 @@
-![From messy workflows to useful software.](assets/profile-banner.svg)
+<a href="https://tomas-garbarino.vercel.app/">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/portfolio-banner-static.png">
+    <img src="assets/portfolio-banner.gif" alt="Real problems. Working systems. Explore Tomás Garbarino's portfolio." width="960">
+  </picture>
+</a>
 
 # Tomás Garbarino
 
-**Product Engineer · Argentina**
+**Product Engineer / Applied AI · Argentina**
 
-I build web products and internal tools for work that still takes too many tabs, handoffs, and copy-pastes. I work across the interface, integrations, and deployment, and design AI workflows people can review before they act.
+I connect customer discovery, product decisions, and hands-on AI implementation. I build web products and internal tools for work that still takes too many tabs, handoffs, and copy-pastes.
 
 [Portfolio](https://tomas-garbarino.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/tomas-garbarino/)
 
