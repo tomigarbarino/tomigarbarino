@@ -15,15 +15,28 @@ I connect customer discovery, product decisions, and hands-on AI implementation.
 
 ## Try something I built
 
-- **EdgeBridge KVM** · Move your cursor across the edge of one Windows PC to use the same mouse and keyboard on another. [Download](https://github.com/tomigarbarino/edgebridge-kvm/releases/latest) · [Code](https://github.com/tomigarbarino/edgebridge-kvm)
-- **Deliverable Orchestrator** · Turn recurring updates into drafts with sources attached, then approve them before sending. [Open demo](https://orquestador-entregables-tomas.vercel.app/?caso=avance) · [Code](https://github.com/tomigarbarino/orquestador-entregables)
-- **Editorial Evidence Gate** · See how an evidence check handles an unsupported claim in an AI draft. [Review a sample](https://github.com/tomigarbarino/editorial-evidence-gate/blob/HEAD/examples/review.md) · [Code](https://github.com/tomigarbarino/editorial-evidence-gate)
+<a href="https://github.com/tomigarbarino/edgebridge-kvm/releases/latest"><img src="assets/link-edgebridge.png" width="240" height="41" alt="Download EdgeBridge KVM"></a>
+
+Move your cursor across the edge of one Windows PC to use the same mouse and keyboard on another. [Code](https://github.com/tomigarbarino/edgebridge-kvm)
+
+<a href="https://orquestador-entregables-tomas.vercel.app/?caso=avance"><img src="assets/link-orchestrator.png" width="240" height="41" alt="Open the Deliverable Orchestrator demo"></a>
+
+Turn recurring updates into drafts with sources attached, then approve them before sending. [Code](https://github.com/tomigarbarino/orquestador-entregables)
+
+<a href="https://github.com/tomigarbarino/editorial-evidence-gate/blob/HEAD/examples/review.md"><img src="assets/link-evidence-gate.png" width="240" height="41" alt="View a sample review from Editorial Evidence Gate"></a>
+
+See how an evidence check handles an unsupported claim in an AI draft. [Code](https://github.com/tomigarbarino/editorial-evidence-gate)
 
 I also built [Triage Backlog](https://github.com/tomigarbarino/triage-backlog), a Claude Code skill that checks bug reports and feature requests against the codebase before ranking them.
 
 ## Product work at Flock I+D
 
-- **[Agora](https://tomas-garbarino.vercel.app/en/agora)** · Recruiting workflows, candidate experience, and AI-assisted matching.
-- **[Trainly](https://tomas-garbarino.vercel.app/en/trainly)** · Learning and competency validation. I work on product flows, frontend, and AI integration.
+<a href="https://tomas-garbarino.vercel.app/en/agora"><img src="assets/link-agora.png" width="122" height="41" alt="Read the Agora case study"></a>
+
+Recruiting workflows, candidate experience, and AI-assisted matching.
+
+<a href="https://tomas-garbarino.vercel.app/en/trainly"><img src="assets/link-trainly.png" width="122" height="41" alt="Read the Trainly case study"></a>
+
+Learning and competency validation. I work on product flows, frontend, and AI integration.
 
 My background is in frontend engineering and frontend leadership. Most of my web work uses TypeScript, React, and Next.js.
