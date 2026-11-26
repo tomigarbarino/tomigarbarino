@@ -12,7 +12,7 @@ I build web products and internal tools for work that still takes too many tabs,
 
 - **EdgeBridge KVM** · Move your cursor across the edge of one Windows PC to use the same mouse and keyboard on another. [Download](https://github.com/tomigarbarino/edgebridge-kvm/releases/latest) · [Code](https://github.com/tomigarbarino/edgebridge-kvm)
 - **Deliverable Orchestrator** · Turn recurring updates into drafts with sources attached, then approve them before sending. [Open demo](https://orquestador-entregables-tomas.vercel.app/?caso=avance) · [Code](https://github.com/tomigarbarino/orquestador-entregables)
-- **Editorial Evidence Gate** · See how an evidence check handles an unsupported claim in an AI draft. [Review a sample](https://github.com/tomigarbarino/editorial-evidence-gate/blob/main/examples/review.md) · [Code](https://github.com/tomigarbarino/editorial-evidence-gate)
+- **Editorial Evidence Gate** · See how an evidence check handles an unsupported claim in an AI draft. [Review a sample](https://github.com/tomigarbarino/editorial-evidence-gate/blob/HEAD/examples/review.md) · [Code](https://github.com/tomigarbarino/editorial-evidence-gate)
 
 I also built [Triage Backlog](https://github.com/tomigarbarino/triage-backlog), a Claude Code skill that checks bug reports and feature requests against the codebase before ranking them.
 
