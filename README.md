@@ -25,6 +25,12 @@ I take AI features from customer discovery through product decisions, implementa
 
 [Read the JEV research behind Agora's matching decisions](https://tomasgarbarino.com/writing/jev)
 
+## AI Engineering Research Lab
+
+Explore three reproducible experiments on selective evaluation, retrieval quality and local agent workflows. I defined the research agenda. Codex agents implemented the studies and checked one another’s results. The repository includes synthetic inputs, recorded outputs and tests you can run locally.
+
+[Explore the technical records](https://tomasgarbarino.com/research) · [Inspect the code and fixtures](https://github.com/tomigarbarino/ai-engineering-research-lab)
+
 ## Public projects
 
 <p>
