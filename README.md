@@ -1,4 +1,4 @@
-<a href="https://tomas-garbarino.vercel.app/">
+<a href="https://tomasgarbarino.com/">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="assets/portfolio-banner-static.png">
     <img src="assets/portfolio-banner.gif" alt="Real problems. Working systems. Explore Tomás Garbarino's portfolio." width="960">
@@ -11,19 +11,19 @@
 
 I take AI features from customer discovery through product decisions, implementation, and validation. At Flock I+D, I work on recruiting and learning products, where knowing when to ask for human review is part of the design.
 
-[Portfolio](https://tomas-garbarino.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/tomas-garbarino/)
+[Portfolio](https://tomasgarbarino.com/) · [LinkedIn](https://www.linkedin.com/in/tomas-garbarino/)
 
 ## Product case studies
 
 <p>
-<a href="https://tomas-garbarino.vercel.app/en/agora"><img src="assets/card-agora.png" width="134" height="67" alt="Agora case study"></a>
-<a href="https://tomas-garbarino.vercel.app/en/trainly"><img src="assets/card-trainly.png" width="134" height="67" alt="Trainly case study"></a>
+<a href="https://tomasgarbarino.com/en/agora"><img src="assets/card-agora.png" width="134" height="67" alt="Agora case study"></a>
+<a href="https://tomasgarbarino.com/en/trainly"><img src="assets/card-trainly.png" width="134" height="67" alt="Trainly case study"></a>
 </p>
 
 - **Agora** · As Product Owner, I helped design a path to human review when missing hiring criteria made the AI match score misleading.
 - **Trainly** · I work on the frontend and AI integration that connect company knowledge with conversational assessment.
 
-[Read the JEV research behind Agora's matching decisions](https://tomas-garbarino.vercel.app/writing/jev)
+[Read the JEV research behind Agora's matching decisions](https://tomasgarbarino.com/writing/jev)
 
 ## Public projects
 
